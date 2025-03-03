@@ -1,0 +1,24 @@
+<?php
+$lang["the_best_social_media_panel_in_the_market"] = "The Best Social Media Panel in The Market!";
+$lang["manage_all_social_media_networks_from_a_single_panel_quality_and_cheap_we_provide_services_on_todays_most_popular_social_networks_we_have_instagram_twitter_facebook_youtube_tiktok_spotify_and_many_more_services"] = "Manage all social media networks from a single panel, quality and cheap. We provide services on today's most popular social networks. We have Instagram, Twitter, Facebook, Youtube, TikTok, Spotify and many more services.";
+$lang["happy_clients"]           = "Happy Clients";
+$lang["hours_of_support"]        = "Hours Of Support";
+$lang["fast_services"]           = "Fast  Services";
+$lang["why_choose_us"] = "WHY CHOOSE US?";
+$lang["we_are_help_dominate_social_media_with_the_largest_social_media_panel"] = "We are help dominate social media with the largest social media panel";
+$lang["great_quality"] = "Great quality";
+$lang["youll_be_satisfied_with_smm_services_we_provide"] = "You'll be satisfied with SMM services we provide.";
+$lang["many_payment_methods"] = "Many payment methods";
+$lang["enjoy_a_fantastic_selection_of_payment_methods_that_we_offer"] = "Enjoy a fantastic selection of payment methods that we offer.";
+$lang["shoking_prices"] = "Shoking prices";
+$lang["you_will_be_satisfied_with_how_cheap_our_services_are"] = "You will be satisfied with how cheap our services are.";
+$lang["unbelievable_prices"] = "Unbelievable Prices";
+$lang["our_prices_most_reasonable_in_the_market_starting_from_at_0001"] = "Our prices most reasonable in the market, starting from at $0.001";
+$lang["who_we_are"] = "WHO WE ARE";
+$lang["what_we_offer_for_your_succes_brand"] = "What We Offer For Your Succes Brand?";
+$lang["we_are_active_for_support_only_24_hours_a_day_and_seven_times_a_week_with_all_of_your_demands_and_services_around_the_day__dont_go_anywhere_else_we_are_here_ready_to_serve_you_and_help_you_with_all_of_your_smm_needs_users_or_clients_with_smm_orders_and_in_need_of_cheap_smm_services_are_more_then_welcome_in_our_smm_panel"] = "We are active for support only 24 hours a day and seven times a week with all of your demands and services around the day. <br> Don't go anywhere else. We are here ready to serve you and help you with all of your SMM needs. Users or Clients with SMM orders and in need of CHEAP SMM services are more then welcome in our SMM PANEL.";
+$lang["social_media_is_our_business"] = "SOCIAL MEDIA IS OUR BUSINESS";
+$lang["providing_service_in_all_social_networks"] = "Providing Service in All Social Networks";
+$lang["other_services"] = "Other Services";
+$lang["we_are_help_dominate_social_media_with_the_largest_social_media_panel"] = "We are help dominate social media with the largest social media panel";
+$lang["payment_methods"] = "Payment Methods";

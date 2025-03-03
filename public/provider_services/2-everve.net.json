@@ -1,0 +1,197 @@
+{
+    "time": "2025-02-12 10:00:03",
+    "data": [
+        {
+            "service": "52",
+            "name": "Reddit UpVotes",
+            "category": "RD Ups",
+            "rate": 2.8,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "15",
+            "name": "Vkontakte Reposts",
+            "category": "VK Reposts",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "5",
+            "name": "Twitter Followers",
+            "category": "TW Followers",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "58",
+            "name": "Quora Shares",
+            "category": "QU Shares",
+            "rate": 5,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "24",
+            "name": "YouTube Views",
+            "category": "YT Views",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "60",
+            "name": "Quora Followers",
+            "category": "QU Followers",
+            "rate": 5.2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "48",
+            "name": "TikTok Likes",
+            "category": "TK Likes",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "56",
+            "name": "TikTok Comments",
+            "category": "TK Comments",
+            "rate": 2.5,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "43",
+            "name": "Telegram Channels",
+            "category": "TG Channels",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "31",
+            "name": "Vkontakte Likes",
+            "category": "VK Likes",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "14",
+            "name": "Twitter Likes",
+            "category": "TW Likes",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "8",
+            "name": "Vkontakte Groups",
+            "category": "VK Groups",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "50",
+            "name": "Instagram Likes+Followers",
+            "category": "IG Likes+Followers",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "54",
+            "name": "Reddit Subscribers",
+            "category": "RD Subs",
+            "rate": 3,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "47",
+            "name": "Instagram Comments",
+            "category": "IG Comments",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "57",
+            "name": "Quora Likes",
+            "category": "QU Likes",
+            "rate": 4,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "19",
+            "name": "Instagram Followers",
+            "category": "IG Followers",
+            "rate": 1.2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "18",
+            "name": "Instagram Likes",
+            "category": "IG Likes",
+            "rate": 1.1,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "6",
+            "name": "Vkontakte Pages",
+            "category": "VK Pages",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "55",
+            "name": "TikTok Followers",
+            "category": "TK Followers",
+            "rate": 3,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "59",
+            "name": "Reddit Comments",
+            "category": "RD Comments",
+            "rate": 7,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "32",
+            "name": "Traffic Exchange",
+            "category": "Traffic Exchange",
+            "rate": 1.2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "23",
+            "name": "YouTube Likes",
+            "category": "YT Likes",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        },
+        {
+            "service": "13",
+            "name": "Twitter Retweets",
+            "category": "TW Retweets",
+            "rate": 2,
+            "type": "default",
+            "dripfeed": 0
+        }
+    ]
+}

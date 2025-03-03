@@ -1,0 +1,49 @@
+{
+    "time": "2024-12-29 07:00:03",
+    "data": [
+        {
+            "service": "43",
+            "name": "Post Downvotes\u2b07\ufe0f",
+            "category": "Reddit",
+            "rate": "5.2500",
+            "min": "5",
+            "max": "100",
+            "type": "default",
+            "desc": "\u23f1  Start: 10 ~ 30 seconds\r\n\u26a1\ufe0f  Speed:  5 - 20 Upvotes \/ Minute\r\n\u2714  High-Quality\r\n\ud83d\udd34 NON DROP\r\n\u274c If Post get deleted the order is cancelled\r\n\r\n\ud83d\udca1 post or comment need to be within 7 days old!\r\n\r\nAccount pool from 250~500 upvotes at any given time.\r\n\r\n\ud83d\udd34ONLY SUBREDDIT POSTS \/ COMMENTS\r\n\r\n\u2705Daily database refresh!\r\n\u2705Real Accounts\r\n\u2705Old accounts with high karma!\r\n\r\n---\r\n\r\n\u270fExample links:\r\n\r\nhttps:\/\/old.reddit.com\/r\/xxxx\/comments\/xxxx\/the_bugs_are_just_too_much\/COMMENTID\/\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/?utm_source=share&utm_medium=web2x&context=3\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/\r\n\r\n---\r\n\r\n\r\n\u2705Upvotes sent manually from aged Accounts with High Karma.",
+            "dripfeed": "0"
+        },
+        {
+            "service": "42",
+            "name": "Post Upvotes\u00a0\u2b06\ufe0f",
+            "category": "Reddit",
+            "rate": "5.2500",
+            "min": "5",
+            "max": "100",
+            "type": "default",
+            "desc": "\u23f1  Start: 10 ~ 30 seconds\r\n\u26a1\ufe0f  Speed:  5 - 20 Upvotes \/ Minute\r\n\u2714  High-Quality\r\n\ud83d\udd34 NON DROP\r\n\u274c If Post get deleted the order is cancelled\r\n\r\n\ud83d\udca1 post or comment need to be within 7 days old!\r\n\r\nAccount pool from 250~500 upvotes at any given time.\r\n\r\n\ud83d\udd34ONLY SUBREDDIT POSTS \/ COMMENTS\r\n\r\n\u2705Daily database refresh!\r\n\u2705Real Accounts\r\n\u2705Old accounts with high karma!\r\n\r\n---\r\n\r\n\u270fExample links:\r\n\r\nhttps:\/\/old.reddit.com\/r\/xxxx\/comments\/xxxx\/the_bugs_are_just_too_much\/COMMENTID\/\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/?utm_source=share&utm_medium=web2x&context=3\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/\r\n\r\n---\r\n\r\n\r\n\u2705Upvotes sent manually from aged Accounts with High Karma.\r\n",
+            "dripfeed": "0"
+        },
+        {
+            "service": "45",
+            "name": "Comments Downvote\u00a0\u2b07\ufe0f",
+            "category": "Reddit",
+            "rate": "5.5000",
+            "min": "5",
+            "max": "100",
+            "type": "default",
+            "desc": "\u23f1  Start: 10 ~ 30 seconds\r\n\u26a1\ufe0f  Speed:  5 - 20 Upvotes \/ Minute\r\n\u2714  High-Quality\r\n\ud83d\udd34 NON DROP\r\n\u274c If Post get deleted the order is cancelled\r\n\r\n\ud83d\udca1 post or comment need to be within 7 days old!\r\n\r\nAccount pool from 250~500 upvotes at any given time.\r\n\r\n\ud83d\udd34ONLY SUBREDDIT POSTS \/ COMMENTS\r\n\r\n\u2705Daily database refresh!\r\n\u2705Real Accounts\r\n\u2705Old accounts with high karma!\r\n\r\n---\r\n\r\n\u270fExample links:\r\n\r\nhttps:\/\/old.reddit.com\/r\/xxxx\/comments\/xxxx\/the_bugs_are_just_too_much\/COMMENTID\/\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/?utm_source=share&utm_medium=web2x&context=3\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/\r\n\r\n---\r\n\r\n\r\n\u2705Upvotes sent manually from aged Accounts with High Karma.",
+            "dripfeed": "0"
+        },
+        {
+            "service": "44",
+            "name": "Comments Upvotes\u00a0\u2b06\ufe0f",
+            "category": "Reddit",
+            "rate": "5.5000",
+            "min": "5",
+            "max": "100",
+            "type": "default",
+            "desc": "\u23f1  Start: 10 ~ 30 seconds\r\n\u26a1\ufe0f  Speed:  5 - 20 Upvotes \/ Minute\r\n\u2714  High-Quality\r\n\ud83d\udd34 NON DROP\r\n\u274c If Post get deleted the order is cancelled\r\n\r\n\ud83d\udca1 post or comment need to be within 7 days old!\r\n\r\nAccount pool from 250~500 upvotes at any given time.\r\n\r\n\ud83d\udd34ONLY SUBREDDIT POSTS \/ COMMENTS\r\n\r\n\u2705Daily database refresh!\r\n\u2705Real Accounts\r\n\u2705Old accounts with high karma!\r\n\r\n---\r\n\r\n\u270fExample links:\r\n\r\nhttps:\/\/old.reddit.com\/r\/xxxx\/comments\/xxxx\/the_bugs_are_just_too_much\/COMMENTID\/\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/?utm_source=share&utm_medium=web2x&context=3\r\n\r\nhttps:\/\/www.reddit.com\/r\/xxxx\/comments\/xxxx\/comment\/COMMENTID\/\r\n\r\n---\r\n\r\n\r\n\u2705Upvotes sent manually from aged Accounts with High Karma. ",
+            "dripfeed": "0"
+        }
+    ]
+}

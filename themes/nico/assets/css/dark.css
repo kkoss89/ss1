@@ -1,0 +1,166 @@
+body {
+    color: #fff;
+    max-width: 100%;
+    overflow-x: hidden;
+    background: #000;
+}
+
+/**************************/
+/*     03. Navigation     */
+/**************************/
+
+.navbar-custom {
+	background-color: #000;
+}
+.navbar-custom .navbar-toggler {
+    color: #fff;
+}
+p, .navbar-custom .nav-item .nav-link {
+	color: #fff;
+}
+
+.navbar-custom .nav-item .nav-link:hover,
+.navbar-custom .nav-item .nav-link.active {
+	color: #d1caca;
+}
+
+.btn-login {
+	color: #fff;
+}
+
+.header h1 {
+    color: #fff;
+}
+
+
+.section-header .h2-heading {
+    color: #fff;
+}
+
+.modal-content p {
+	color: #000;
+}
+
+.why-choose-us .box h3 {
+    color: #fff;
+}
+
+.single_work_step p,
+.why-choose-us .box p {
+    color: #9f9f9f;
+}
+
+.btn-getstarted {
+	background-color: #f56600;
+}
+
+.btn-login:hover{
+	color: #f56600;
+}
+
+.section-header .above-heading {
+    background-color: #f56600;
+}
+
+.header-content h1, 
+.social-icons .feature-box h3 {
+    color: #f56600;
+}
+
+.counts-area .count-box {
+    background: #171717;
+	border-radius: 10px;
+}
+
+.counts-area .count-box span,
+.basic-1 .text-container h2 {
+    color: #fff;
+}
+
+.counts-area .count-box p,
+.basic-1 .text-container p
+{
+    color: #9f9f9f;
+}
+
+.basic-1 .text-container {
+	border-radius: 10px;
+    background: #171717;
+}
+
+.social-icons .feature-box {
+    border-radius: 10px;
+    background: #171717;
+}
+
+.feature {
+	background: #17171a;
+}
+.feature .feature-icons .content .icon-box .icon {
+    background: #000;
+}
+
+.work-process-area h2 {
+	color: #f56600;
+}
+
+.single_work_step .step-icon::after {
+    border: 5px dotted #f56600;
+}
+
+.single_work_step::before {
+    color: #fff;
+}
+
+.single_work_step .step-icon i {
+    color: #f56600;
+}
+
+.single_work_step h5 {
+    color: #fff;
+}
+
+.faqs,
+.slider-2 {
+    background-color: #000;
+}
+
+.slider-2 h2 {
+	color: #fff;
+}
+
+.slider-2 p {
+	color: #9f9f9f;
+}
+
+.faqs .faq-block__header-icon,
+.faqs p {
+	color: #9f9f9f; 
+}
+
+.faqs .faq-block__header-title h4 {
+    color: #fff;
+}
+
+.faqs .faq-block__card .card {
+    background: #171717;
+    border-color: #171717;
+    box-shadow: 0px 2px 4px 0px rgba(50, 199, 206, 0.08);
+}
+
+.footer {
+    background: #000;
+}
+
+/* Min-width width 992px */
+@media (min-width: 992px) {
+	.navbar-custom.top-nav-collapse {
+		background-color: #000;
+		/* border: 1px solid #9f9f9f; */
+	}
+	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
+	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
+		color: #fff;
+	}
+}
+	

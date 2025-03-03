@@ -1,0 +1,93 @@
+-----------------------------------------------
+
+----- +++ 4.0 Updates +++ -----
+
+----------------------------------------------
+
+- Add New Demo Pages:
+
+   1) Book Demo Page
+
+   2) Digital Demo page
+
+
+- Add New Product Pages:
+
+   1) product accordion
+
+   2) product color image
+
+   3) product dropdown
+
+   4) product dynamic
+
+   5) product expert
+
+   6) product image
+
+   7) product radio
+
+   8) product rectangle
+
+   9) product circle
+
+   10) product size chart
+
+   11) product sold out
+
+   12) product digital
+
+-----------------------------------------------
+
+----- +++ 3.1 Updates +++ -----
+
+----------------------------------------------
+
+- Back-end Page
+
+   1) solve responsive issues
+
+-----------------------------------------------
+
+----- +++ 3.0 Updates +++ -----
+
+----------------------------------------------
+
+- Add Invoice Template:
+
+   1) Invoice 1
+
+   2) Invoice 2
+
+   3) Invoice 3
+
+
+- Add Email Template:
+
+   1) Abandonment
+
+   2) Offer Template
+
+   3) Order Success
+
+   4) Reset Password
+
+   5) Welcome
+
+-----------------------------------------------
+
+----- +++ 4.0 Updates +++ -----
+
+----------------------------------------------
+- Back-end Page
+
+   1) Add Submit Button
+
+   2) Create sign up and forgot page
+   
+-----------------------------------------------
+
+----- +++ 5.0 Updates +++ -----
+
+----------------------------------------------
+- fixed Bugs

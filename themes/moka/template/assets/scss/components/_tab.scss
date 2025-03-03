@@ -1,0 +1,89 @@
+/**=====================
+     Tab scss
+==========================**/
+.tab-style-color {
+    @include flex_wrap ($dis: flex, $wrap: nowrap, $gap: calc(8px + (20 - 8) * ((100vw - 320px) / (1920 - 320))));
+    border: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    @media (max-width: 1265px) {
+        margin-top: 13px;
+    }
+
+    &-2 {
+        @media (max-width: 1265px) {
+            margin-top: 0;
+        }
+
+        @media (max-width: 850px) {
+            margin-top: 13px;
+            padding-bottom: 11px;
+        }
+    }
+
+    .nav-item {
+        .nav-link {
+            border: none;
+            color: $title-color;
+            font-weight: 500;
+            transition: all 0.3s ease-in-out;
+            font-size: calc(14px + (16 - 14) * ((100vw - 320px) / (1920 - 320)));
+            white-space: nowrap;
+            background-color: $white;
+            line-height: 1;
+            border: 1px solid var(--theme-color);
+            padding: calc(9px + (14 - 9) * ((100vw - 320px) / (1920 - 320))) calc(14px + (30 - 14) * ((100vw - 320px) / (1920 - 320)));
+            margin: 0;
+
+            &.active,
+            &:hover {
+                background-color: var(--theme-color);
+                color: $white;
+            }
+
+            img {
+                margin-right: 5px;
+
+                [dir="rtl"] & {
+                    margin-right: unset;
+                    margin-left: 5px;
+                }
+            }
+        }
+    }
+}
+
+.tab-style-2 {
+    @include flex_wrap ($dis: flex, $wrap: nowrap, $gap: calc(7px + (10 - 7) * ((100vw - 320px) / (1920 - 320))));
+    border: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    @media (max-width: 1265px) {
+        margin-top: 13px;
+    }
+
+    .nav-item {
+        .nav-link {
+            color: $content-color;
+            font-weight: 500;
+            transition: all 0.3s ease-in-out;
+            font-size: calc(15px + (16 - 15) * ((100vw - 320px) / (1920 - 320)));
+            white-space: nowrap;
+            background-color: $light-gray;
+            line-height: 1;
+            border: 1px solid rgba(74, 85, 104, 0.15);
+            padding: calc(11px + (13 - 11) * ((100vw - 320px) / (1920 - 320))) calc(15px + (23 - 15) * ((100vw - 320px) / (1920 - 320)));
+            margin: 0;
+            border-radius: calc(6px + (8 - 6) * ((100vw - 320px) / (1920 - 320)));
+
+            &.active,
+            &:hover {
+                background-color: var(--theme-color);
+                color: #fff;
+                border-color: transparent;
+            }
+        }
+    }
+}
